@@ -1,0 +1,7 @@
+[package]
+name = "batmon"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+notify-rust = "4.11.7"
